@@ -17,6 +17,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lawrencew
 ## Consulting
 I'm open to new consulting opportunities and collaborations. If you'd like to work together, please check out [Doxa Solutions](https://doxasolutions.ai).
 
-## Github Statistics using [github-trends](https://github.com/avgupta456/github-trends)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lawwu/langs)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lawwu/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
